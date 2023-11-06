@@ -1,0 +1,4 @@
+/target
+/*.nn
+/*.y4m
+/test
